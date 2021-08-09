@@ -14,7 +14,7 @@ Read the blog post [How to Implement Multiple User Types with Django](https://si
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/school_system/django-multiple-user-types-example.git
+git clone https://github.com/cosmasken/school_system.git
 ```
 
 Install the requirements:
@@ -40,4 +40,4 @@ The project will be available at **127.0.0.1:8000**.
 
 ## License
 
-The source code is released under the [MIT License](https://github.com/school_system/django-multiple-user-types-example/blob/master/LICENSE).
+The source code is released under the [MIT License](https://github.com/cosmasken/school_system/blob/master/LICENSE).
